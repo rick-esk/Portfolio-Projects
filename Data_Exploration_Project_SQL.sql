@@ -1,5 +1,6 @@
 /*
 Covid 19 Data Exploration 
+Data Obtained from: https://ourworldindata.org/covid-deaths
 Skills used: Joins, CTE's, Temp Tables, Creating Views, Windows Functions, Aggregate Functions, Converting Data Types
 */
 
